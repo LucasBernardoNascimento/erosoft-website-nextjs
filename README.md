@@ -1,7 +1,7 @@
 
 # Erosoft WebSite
 
-[erosoft.com.br](https://github.com/ARTHURPC03/New-GoBarber-Web)
+[erosoft.com.br](http://www.erosoft.com.br/)
 
 <butoon>
   <a href="http://www.erosoft.com.br/">
